@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283207688170",
+    "project_id": "fir-morning-f6435",
+    "storage_bucket": "fir-morning-f6435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283207688170:android:4fa2b83b72e1db7aa11c93",
+        "android_client_info": {
+          "package_name": "com.maureen.firebase_morning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRcO6MQflqeLcvUCjlyUdwYkm7Gl5ca0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
